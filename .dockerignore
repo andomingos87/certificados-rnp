@@ -1,0 +1,16 @@
+# Ambiente virtual (não precisamos no Docker)
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos Git
+.git/
+.gitignore
+
+# Outros
+.DS_Store
+*.log
